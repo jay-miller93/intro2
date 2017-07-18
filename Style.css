@@ -1,0 +1,22 @@
+﻿#firstHeading { /*centers the text on the page*/
+    text-align:center;
+}
+.threeCols {
+    column-count:3;
+    column-gap:15px;
+}
+#fullWidthp {
+    column-span:all;
+    text-align:justify;
+}
+div p {
+    column-span:none;
+    text-align:justify;
+}
+#stubbornP {
+    margin-top: 0px;
+}
+.twoCols{
+     column-count:2;
+    column-gap:15px;
+}
